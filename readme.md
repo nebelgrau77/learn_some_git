@@ -1,4 +1,4 @@
 ### let's learn some git
 
 * 1st line: something
-* 2nd line: nothing
+* 2nd line: something

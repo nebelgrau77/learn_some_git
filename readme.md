@@ -1,1 +1,4 @@
-### let's learn some git\n\n* 1st line: something\n2nd line: nothing
+### let's learn some git
+
+* 1st line: something
+* 2nd line: nothing
